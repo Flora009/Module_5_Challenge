@@ -30,17 +30,9 @@ __*Preconditions:*__
 - Adjust the weights of the retirement portfolio so that the composition for the Monte Carlo simulation consists of 20% bonds (AGG) and 80% stocks (SPY).
 
 
-Analyze the Retirement Portfolio Forecasts (5 points)
-To receive all points, you must:
 
-Answer the following question in your Jupyter notebook:
+__Result:__
 
-What are the lower and upper bounds for the expected value of the portfolio with a 95% confidence interval? (5 points)
-Forecast Cumulative Returns in 10 Years (5 points)
-To receive all points, you must:
+- There is a 95% chance that an initial investment of $20000 in the portfolio over the next 30 years will end within in the range of $87713.12 and $1072561.58
 
-Answer the following questions in your Jupyter notebook:
-
-Using the current value of the stock and bond portion of the member's portfolio, as well as the summary statistics that you generated from the new Monte Carlo simulation, what are the lower and upper bounds for the expected value of the portfolio (with the new weights) with a 95% confidence interval? (2 points)
-
-Will weighting the portfolio more heavily toward stocks allow the credit union members to retire after only 10 years? (3 points)
+- There is a 95% chance that an initial investment of $20000 in the portfolio over the next 10 years will end within in the range of $25206.09 and $167245.41
